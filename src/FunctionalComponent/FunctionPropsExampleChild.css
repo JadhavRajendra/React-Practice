@@ -1,0 +1,21 @@
+.main-function{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(74, 179, 60);
+    padding-left: 50px;
+    padding-right: 50px;
+}
+    
+.pic-image{
+    height: 200px;
+    background-position: center;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 25px;
+    
+}
+    
+
+
+

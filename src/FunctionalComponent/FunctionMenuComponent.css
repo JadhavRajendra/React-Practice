@@ -1,0 +1,61 @@
+.my-menu {
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  
+  .my-menu{
+    background:rgb(73, 158, 70);
+    width: 100%;
+    text-align: center;
+    background-position:center;
+    background-image: url(https://vinusimages.co/wp-content/uploads/2018/10/EG7A2390.jpgA_.jpg);
+    height: 700px;
+    margin: 10px;
+    
+  }
+  .my-menu ul{
+    display: inline-flex;
+    list-style: none;
+    color:#fff;
+    background-color: rgb(73, 158, 70);
+  
+  }
+  .my-menu ul li{
+  width: 1oopx;
+  margin: 15px;
+  padding: 15px;
+  
+    
+  }
+  .my-menu ul li a{
+    text-decoration: none;
+    color: #fff;
+  }
+  .active , .my-menu ul li:hover{
+    background-color: #2bab0d;
+    border-radius: 3px;
+  
+  }
+  .sub-menu-l{
+    display: none;
+  }
+  .my-menu ul li:hover.sub-menul{
+    display: block;
+    position: absolute;
+    background: rgb(0,100,0);
+    margin-top: 15px;
+    margin-left: 15px;
+  
+  }
+  .my-menu ul li:hover.sub-menu l ul{
+    display: block;
+    margin: 10px;
+  
+  
+  }
+  .my-menu .fa{
+    margin-right: 8px;
+    
+  }
