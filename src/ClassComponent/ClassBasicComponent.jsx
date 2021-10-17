@@ -31,4 +31,4 @@ class ClassBasicCompnent extends React.Component{
 
     }
 }
-export default ClassBasicCompnent ;
+export default ClassBasicCompnent;
