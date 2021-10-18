@@ -8,6 +8,7 @@ import ClassPropsExamleParent2 from "./ClassComponent/ClassPropsExamleParent2";
 import ClassPropsExampleParent1 from "./ClassComponent/ClassPropsExampleParent1";
 import BootsrapImages from "./FunctionalComponent/BootsrapImages";
 import FunctionalParent from "./FunctionalComponent/FunctionalParent";
+import StateExzample from "./ClassComponent/StateExzample";
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -26,7 +27,8 @@ function app(){
      {/* <BootsrapFormsExample/> */}
       {/* <BootsraptableExample/> */}
       {/* <BootsrapCarouselExample/> */}
-       <BootsrapImages/>
+       {/* <BootsrapImages/> */}
+       <StateExzample/>
         </div>
         
     )
