@@ -13,6 +13,7 @@ export default class BootsrapButtonExample extends Component {
               <Button variant="danger">Danger</Button> <Button variant="info">Info</Button>{' '}
               <Button variant="light">Light</Button> <Button variant="dark">Dark</Button>{' '}
               <Button variant="link">Link</Button>
+              <Button variant="link">link </Button>
            
             </div>
         )
