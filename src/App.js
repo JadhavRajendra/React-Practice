@@ -13,6 +13,7 @@ import BootsrapAlerts from "./FunctionalComponent/BootsrapAlerts";
 import BootsrapAccordion from "./FunctionalComponent/BootsrapAccordion";
 import BootsrapBadge from "./FunctionalComponent/BootsrapBadge";
 import BootsrapButtonGroup from "./FunctionalComponent/BootsrapButtonGroup";
+import BootsrapForms from "./FunctionalComponent/BootsrapForms";
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -39,7 +40,9 @@ function app(){
        {/* <BootsrapAlerts/> */}
        {/* <BootsrapAccordion/> */}
        {/* <BootsrapBadge/> */}
-       <BootsrapButtonGroup/>
+       {/* <BootsrapButtonGroup/> */}
+       <BootsrapForms/>
+
 
     
         </div>
