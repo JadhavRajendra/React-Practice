@@ -9,6 +9,10 @@ import BootsrapImages from "./FunctionalComponent/BootsrapImages";
 import FunctionalParent from "./FunctionalComponent/FunctionalParent";
 import StateExzample from "./ClassComponent/StateExzample";
 import StatenameExzample from "./ClassComponent/StatenameExzample";
+import BootsrapAlerts from "./FunctionalComponent/BootsrapAlerts";
+import BootsrapAccordion from "./FunctionalComponent/BootsrapAccordion";
+import BootsrapBadge from "./FunctionalComponent/BootsrapBadge";
+import BootsrapButtonGroup from "./FunctionalComponent/BootsrapButtonGroup";
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -31,7 +35,12 @@ function app(){
        {/* <StateExzample/> */}
        {/* < StatenameExzample/> */}
        {/* <BootsrapButtonExample/> */}
-       <BootsrapCarouselExample/>
+       {/* <BootsrapCarouselExample/> */}
+       {/* <BootsrapAlerts/> */}
+       {/* <BootsrapAccordion/> */}
+       {/* <BootsrapBadge/> */}
+       <BootsrapButtonGroup/>
+
     
         </div>
         
