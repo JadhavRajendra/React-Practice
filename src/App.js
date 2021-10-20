@@ -15,6 +15,9 @@ import BootsrapBadge from "./FunctionalComponent/BootsrapBadge";
 import BootsrapButtonGroup from "./FunctionalComponent/BootsrapButtonGroup";
 import BootsrapForms from "./FunctionalComponent/BootsrapForms";
 import BootsrapToltips from "./FunctionalComponent/BootsrapTooltips";
+import BootsrapModal from "./FunctionalComponent/BootsrapModal";
+import BootsrapSpinners from "./ClassComponent/BootsrapSpinners";
+import BootsrapToasts from "./FunctionalComponent/BootsrapToasts";
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -43,7 +46,10 @@ function app(){
        {/* <BootsrapBadge/> */}
        {/* <BootsrapButtonGroup/> */}
        {/* <BootsrapForms/> */}
-       <BootsrapToltips/>
+       {/* <BootsrapToltips/> */}
+       {/* <BootsrapModal/> */}
+       {/* <BootsrapSpinners/> */}
+       {/* <BootsrapToasts/> */}
 
 
     
