@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import {Placeholder,Card,Button} from 'react-bootstrap'
+import'./BootsrapPlaceholder.css';
 export default class BootsrapPlaceholder extends Component {
     render() {
         return (
