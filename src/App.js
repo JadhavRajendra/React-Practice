@@ -19,6 +19,7 @@ import BootsrapModal from "./FunctionalComponent/BootsrapModal";
 import BootsrapSpinners from "./ClassComponent/BootsrapSpinners";
 import BootsrapToasts from "./FunctionalComponent/BootsrapToasts";
 import BootsrapPlaceholder from "./ClassComponent/BootsrapPlaceholder";
+import BootsrapLayout from "./ClassComponent/BootsrapLayout";
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -51,7 +52,8 @@ function app(){
        {/* <BootsrapModal/> */}
        {/* <BootsrapSpinners/> */}
        {/* <BootsrapToasts/> */}
-       <BootsrapPlaceholder/>
+       {/* <BootsrapPlaceholder/> */}
+       <BootsrapLayout/>
 
 
     
