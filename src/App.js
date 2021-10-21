@@ -20,6 +20,10 @@ import BootsrapSpinners from "./ClassComponent/BootsrapSpinners";
 import BootsrapToasts from "./FunctionalComponent/BootsrapToasts";
 import BootsrapPlaceholder from "./ClassComponent/BootsrapPlaceholder";
 import BootsrapLayout from "./ClassComponent/BootsrapLayout";
+import StatebasicExzample from "./ClassComponent/StatebasicExzample";
+import StateemailExzample from "./ClassComponent/StateemailExzample";
+import StatechangExzample from "./ClassComponent/StatechangExzample";
+import StatecountExzample from "./ClassComponent/StatecountExzample";
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -53,7 +57,11 @@ function app(){
        {/* <BootsrapSpinners/> */}
        {/* <BootsrapToasts/> */}
        {/* <BootsrapPlaceholder/> */}
-       <BootsrapLayout/>
+       {/* <BootsrapLayout/> */}
+       {/* <StatebasicExzample/> */}
+       {/* <StateemailExzample/> */}
+       {/* <StatechangExzample/> */}
+       <StatecountExzample/>
 
 
     
