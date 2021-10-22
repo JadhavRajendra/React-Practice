@@ -51,7 +51,7 @@ function app(){
        {/* <BootsrapAccordion/> */}
        {/* <BootsrapBadge/> */}
        {/* <BootsrapButtonGroup/> */}
-       {/* <BootsrapForms/> */}
+       <BootsrapForms/>
        {/* <BootsrapToltips/> */}
        {/* <BootsrapModal/> */}
        {/* <BootsrapSpinners/> */}
@@ -61,7 +61,8 @@ function app(){
        {/* <StatebasicExzample/> */}
        {/* <StateemailExzample/> */}
        {/* <StatechangExzample/> */}
-       <StatecountExzample/>
+       {/* <StatecountExzample/> */}
+       
 
 
     
