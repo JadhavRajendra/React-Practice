@@ -40,8 +40,8 @@ function app(){
      {/* <BootsrapButtonExample/> */}
      {/* <FunctionalParent/> */}
      {/* <BootsrapFormsExample/> */}
-      <BootsraptableExample/>
-      {/* <BootsrapCarouselExample/> */}
+      {/* <BootsraptableExample/> */}
+      <BootsrapCarouselExample/>
        {/* <BootsrapImages/> */}
        {/* <StateExzample/> */}
        {/* < StatenameExzample/> */}

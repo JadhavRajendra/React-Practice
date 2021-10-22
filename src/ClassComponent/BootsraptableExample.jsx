@@ -10,7 +10,7 @@ export default class BootsraptableExample extends Component {
     <thead>
       <tr>
         <th>#</th>
-        <th>Table heading</th>
+        <th>first name</th>
         <th>Table heading</th>
         <th>Table heading</th>
         <th>Table heading</th>
