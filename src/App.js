@@ -41,7 +41,7 @@ function app(){
      {/* <FunctionalParent/> */}
      {/* <BootsrapFormsExample/> */}
       {/* <BootsraptableExample/> */}
-      <BootsrapCarouselExample/>
+      {/* <BootsrapCarouselExample/> */}
        {/* <BootsrapImages/> */}
        {/* <StateExzample/> */}
        {/* < StatenameExzample/> */}
@@ -56,7 +56,7 @@ function app(){
        {/* <BootsrapModal/> */}
        {/* <BootsrapSpinners/> */}
        {/* <BootsrapToasts/> */}
-       {/* <BootsrapPlaceholder/> */}
+       <BootsrapPlaceholder/>
        {/* <BootsrapLayout/> */}
        {/* <StatebasicExzample/> */}
        {/* <StateemailExzample/> */}
