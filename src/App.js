@@ -40,7 +40,7 @@ function app(){
      {/* <BootsrapButtonExample/> */}
      {/* <FunctionalParent/> */}
      {/* <BootsrapFormsExample/> */}
-      {/* <BootsraptableExample/> */}
+      <BootsraptableExample/>
       {/* <BootsrapCarouselExample/> */}
        {/* <BootsrapImages/> */}
        {/* <StateExzample/> */}
@@ -51,7 +51,7 @@ function app(){
        {/* <BootsrapAccordion/> */}
        {/* <BootsrapBadge/> */}
        {/* <BootsrapButtonGroup/> */}
-       <BootsrapForms/>
+       {/* <BootsrapForms/> */}
        {/* <BootsrapToltips/> */}
        {/* <BootsrapModal/> */}
        {/* <BootsrapSpinners/> */}
