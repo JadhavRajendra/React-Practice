@@ -24,6 +24,7 @@ import StatebasicExzample from "./ClassComponent/StatebasicExzample";
 import StateemailExzample from "./ClassComponent/StateemailExzample";
 import StatechangExzample from "./ClassComponent/StatechangExzample";
 import StatecountExzample from "./ClassComponent/StatecountExzample";
+import StateFunction from "./FunctionalComponent/StateFunction";
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -62,6 +63,8 @@ function app(){
        {/* <StateemailExzample/> */}
        {/* <StatechangExzample/> */}
        {/* <StatecountExzample/> */}
+
+       <StateFunction/>
        
 
 
