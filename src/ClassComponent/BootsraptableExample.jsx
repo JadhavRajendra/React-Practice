@@ -6,27 +6,27 @@ export default class BootsraptableExample extends Component {
     render() {
         return (
             <div>
-                <Table responsive="sm"className="my-table">
-    <thead>
+                <Table responsive="sm"className="my-h">
+    <thead className="my-heding">
       <tr>
-        <th>#</th>
+        <th>roll.no</th>
         <th>first name</th>
-        <th>Table heading</th>
-        <th>Table heading</th>
-        <th>Table heading</th>
-        <th>Table heading</th>
-        <th>Table heading</th>
+        <th>secomd name</th>
+        <th>last name</th>
+        <th>subject</th>
+        <th>callage</th>
+        <th>state</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>1</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
+        <td>tajendra</td>
+        <td>parasram</td>
+        <td>jadhav</td>
+        <td>math</td>
+        <td>m.g.m</td>
+        <td>maharastra</td>
       </tr>
       <tr>
         <td>2</td>
@@ -147,8 +147,8 @@ export default class BootsraptableExample extends Component {
     <tbody>
       <tr>
         <td>1</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
+        <td>rajendra</td>
+        <td>hading</td>
         <td>Table cell</td>
         <td>Table cell</td>
         <td>Table cell</td>

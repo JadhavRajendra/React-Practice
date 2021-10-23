@@ -41,7 +41,7 @@ function app(){
      {/* <BootsrapButtonExample/> */}
      {/* <FunctionalParent/> */}
      {/* <BootsrapFormsExample/> */}
-      {/* <BootsraptableExample/> */}
+      <BootsraptableExample/>
       {/* <BootsrapCarouselExample/> */}
        {/* <BootsrapImages/> */}
        {/* <StateExzample/> */}
@@ -63,7 +63,7 @@ function app(){
        {/* <StateemailExzample/> */}
        {/* <StatechangExzample/> */}
        {/* <StatecountExzample/> */}
-       <StatecountExzample/>
+       {/* <StatecountExzample/> */}
        {/* <StateFunction/> */}
        
 
