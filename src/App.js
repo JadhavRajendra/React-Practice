@@ -56,7 +56,7 @@ function app(){
        {/* <BootsrapModal/> */}
        {/* <BootsrapSpinners/> */}
        {/* <BootsrapToasts/> */}
-       <BootsrapPlaceholder/>
+       {/* <BootsrapPlaceholder/> */}
        {/* <BootsrapLayout/> */}
        {/* <StatebasicExzample/> */}
        {/* <StateemailExzample/> */}
