@@ -65,8 +65,8 @@ function app(){
        {/* <StatechangExzample/> */}
        {/* <StatecountExzample/> */}
        {/* <StatecountExzample/> */}
-       {/* <StateFunction/> */}
-       {/* <Statefunctionname/> */}
+       <StateFunction/>
+       <Statefunctionname/>
        
 
 

@@ -1,15 +1,20 @@
 import React, { useState } from 'react'
 
     const Statefunctionname =() => {
-        const [addition,Setaddition] =useState();
-        const updeate =() => {
-        Setaddition (updeate.name)
-    
-}
+        const [data,setData] =useState({firstName:"shoeb",lastName:"khan"});
+        console.log("checking===>",data)
+
+        var kuchBhi =()=>{
+            setData({
+                firstName :"rajendra",
+                lastName: "Jadhav"
+            })
+        }
+ 
     return (
         <div>
-            <h1> name</h1>
-            <button onClick ={updeate.name }> hallo </button> 
+            <h1> {data.firstName} {data.lastName}</h1>
+            <button onClick={kuchBhi} > hallo </button> 
           
                </div>
     );
