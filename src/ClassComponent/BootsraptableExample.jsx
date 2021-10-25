@@ -52,23 +52,23 @@ export default class BootsraptableExample extends Component {
     <thead>
       <tr>
         <th>#</th>
-        <th>Table heading</th>
-        <th>Table heading</th>
-        <th>Table heading</th>
-        <th>Table heading</th>
-        <th>Table heading</th>
-        <th>Table heading</th>
+        <th>frst name</th>
+        <th>second name</th>
+        <th>last name</th>
+        <th>subject</th>
+        <th>callage</th>
+        <th>state</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>1</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
+        <td>shoeb</td>
+        <td>shoen</td>
+        <td>khan</td>
+        <td>chemestry</td>
+        <td>m.g.m</td>
+        <td>maharastra</td>
       </tr>
       <tr>
         <td>2</td>
