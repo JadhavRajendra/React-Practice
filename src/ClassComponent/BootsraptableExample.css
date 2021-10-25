@@ -3,13 +3,13 @@ text-align: center;
 background-color: aqua;
 padding-left: 500px;
 padding-right: 300px;
-border-left: brown;
+border-left: rgb(42, 165, 48);
 }
 .my-n{
     padding-right: 500px;
 }
 .my-h{
-    background-color: rgb(165, 42, 134);
+    background-color: red
 }
 .my-heding{
     background-color: chartreuse;

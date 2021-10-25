@@ -30,21 +30,21 @@ export default class BootsraptableExample extends Component {
       </tr>
       <tr>
         <td>2</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
+        <td>youraj</td>
+        <td>rohidas</td>
+        <td>chavan</td>
+        <td>marathi</td>
+        <td>m.g.m</td>
+        <td>maharastar</td>
       </tr>
       <tr>
         <td>3</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
-        <td>Table cell</td>
+        <td>ashok</td>
+        <td>ragunath</td>
+        <td>jadhav</td>
+        <td>physics</td>
+        <td>m.g.m</td>
+        <td>maharstra</td>
       </tr>
     </tbody>
   </Table>

@@ -42,7 +42,7 @@ function app(){
      {/* <BootsrapButtonExample/> */}
      {/* <FunctionalParent/> */}
      {/* <BootsrapFormsExample/> */}
-      {/* <BootsraptableExample/> */}
+      <BootsraptableExample/>
       {/* <BootsrapCarouselExample/> */}
        {/* <BootsrapImages/> */}
        {/* <StateExzample/> */}
