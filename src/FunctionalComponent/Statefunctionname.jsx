@@ -8,7 +8,7 @@ import React, { useState } from 'react'
 
         var kuchBhi =()=>{
             setData({
-                firstName :"rajendra ,youraj,ashok,amol,sandip;dipak,vijay,",
+                firstName :"rajendra ,",
                 lastName: "Jadhav",
                 
            

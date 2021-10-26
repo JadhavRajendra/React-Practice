@@ -26,6 +26,7 @@ import StatechangExzample from "./ClassComponent/StatechangExzample";
 import StatecountExzample from "./ClassComponent/StatecountExzample";
 import StateFunction from "./FunctionalComponent/StateFunction";
 import Statefunctionname from "./FunctionalComponent/Statefunctionname";
+import Usestatefunction from "./FunctionalComponent/usestatefunction";
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -67,6 +68,7 @@ function app(){
        {/* <StatecountExzample/> */}
        <StateFunction/>
        <Statefunctionname/>
+       <Usestatefunction/>
        
 
 
