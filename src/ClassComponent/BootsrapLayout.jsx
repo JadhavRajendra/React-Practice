@@ -81,7 +81,7 @@ export default class BootsrapLayout extends Component {
            <tr>
             <td>3</td>
             {Array.from({ length: 12 }).map((_, index) => (
-            <td key={index}>Table cell {index}</td>
+            <td key={index}>Table celle {index}</td>
             ))}
             </tr>
            </tbody>
