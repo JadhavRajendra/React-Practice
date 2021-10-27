@@ -40,12 +40,12 @@ function app(){
         
         return(
         <div className='App'>  
-     {/* <BootsrapButtonExample/> */}
-     {/* <FunctionalParent/> */}
-     {/* <BootsrapFormsExample/> */}
+     <BootsrapButtonExample/> */}
+     <FunctionalParent/>
+     <BootsrapFormsExample/>
       <BootsraptableExample/>
-      {/* <BootsrapCarouselExample/> */}
-       {/* <BootsrapImages/> */}
+      <BootsrapCarouselExample/>
+       <BootsrapImages/>
        {/* <StateExzample/> */}
        {/* < StatenameExzample/> */}
        {/* <BootsrapButtonExample/> */}
@@ -65,10 +65,10 @@ function app(){
        {/* <StateemailExzample/> */}
        {/* <StatechangExzample/> */}
        {/* <StatecountExzample/> */}
-       {/* <StatecountExzample/> */}
-       <StateFunction/>
-       <Statefunctionname/>
-       <Usestatefunction/>
+       {/* <StatecountExzample/>
+        <StateFunction/>
+        <Statefunctionname/>
+        <Usestatefunction/>
        
 
 
