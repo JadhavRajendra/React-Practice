@@ -40,7 +40,7 @@ function app(){
         
         return(
         <div className='App'>  
-     <BootsrapButtonExample/> */}
+     <BootsrapButtonExample/> 
      <FunctionalParent/>
      <BootsrapFormsExample/>
       <BootsraptableExample/>
@@ -65,10 +65,7 @@ function app(){
        {/* <StateemailExzample/> */}
        {/* <StatechangExzample/> */}
        {/* <StatecountExzample/> */}
-       {/* <StatecountExzample/>
-        <StateFunction/>
-        <Statefunctionname/>
-        <Usestatefunction/>
+       
        
 
 

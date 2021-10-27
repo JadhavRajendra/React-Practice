@@ -40,7 +40,7 @@ export default class BootsrapCarouselExample extends Component {
 
     <Carousel.Caption>
       <h3>Third slide label 3</h3>
-      <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+      <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur from data by changeprogram.</p>
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
