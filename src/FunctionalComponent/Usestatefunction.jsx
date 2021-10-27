@@ -1,19 +1,23 @@
 import React, { useState } from "react"
 
 const Usestatefunction =()=>{
-    const [data, SetData] = Usestatefunction ({color= "red"}),
+    const [data, SetData] = useState ( {color ="red"}),
  
 const setcolor =()=>{
-    Setdata({
+    SetData({
     color : "blue",
     })
 
 } 
     return (
-        <div>
-           <h1>  { data.color} </h1> 
-           <button  onClick ={setcolor}> color</button>
+        
+        <><div>
+
+            <h1 Style={color} />: data.color>hello </h1><button onClick={() => setcolor}> color</button></>
         </div>
+        </>
+        
     );
+           
 }
 export default Usestatefunction;
