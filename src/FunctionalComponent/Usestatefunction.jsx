@@ -15,7 +15,7 @@ const setcolor =()=>{
         <div style={data}>
          
             <h1> hello  shoeb </h1>
-            <p> hallo rajendra</p>
+            <p> hallo rajendra </p>
             <button onClick={setcolor}>change color</button>
         </div>
         
