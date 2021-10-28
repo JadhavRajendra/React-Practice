@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 
 const Usestatefunction =()=>{
-    const [data, SetData] = useState ( {color ="red"}),
+    const [data, SetData] = useState ( {color :"red"})
  
 const setcolor =()=>{
     SetData({
@@ -10,12 +10,13 @@ const setcolor =()=>{
 
 } 
     return (
-        
-        <><div>
 
-            <h1 Style={color} />: data.color>hello </h1><button onClick={() => setcolor}> color</button></>
+        <div style={data}>
+         
+            <h1> hello  shoeb</h1>
+            <button onClick={setcolor}>change color</button>
         </div>
-        </>
+        
         
     );
            

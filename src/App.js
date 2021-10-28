@@ -26,7 +26,7 @@ import StatechangExzample from "./ClassComponent/StatechangExzample";
 import StatecountExzample from "./ClassComponent/StatecountExzample";
 import StateFunction from "./FunctionalComponent/StateFunction";
 import Statefunctionname from "./FunctionalComponent/Statefunctionname";
-import Usestatefunction from "./FunctionalComponent/usestatefunction";
+import Usestatefunction from "./FunctionalComponent/Usestatefunction";
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -40,12 +40,8 @@ function app(){
         
         return(
         <div className='App'>  
-     <BootsrapButtonExample/> 
-     <FunctionalParent/>
-     <BootsrapFormsExample/>
-      <BootsraptableExample/>
-      <BootsrapCarouselExample/>
-       <BootsrapImages/>
+     {/* <BootsrapButtonExample/>  */}
+    
        {/* <StateExzample/> */}
        {/* < StatenameExzample/> */}
        {/* <BootsrapButtonExample/> */}
@@ -65,6 +61,7 @@ function app(){
        {/* <StateemailExzample/> */}
        {/* <StatechangExzample/> */}
        {/* <StatecountExzample/> */}
+       <Usestatefunction/>
        
        
 
