@@ -1,11 +1,12 @@
 import React, { useState } from "react"
 
 const Usestatefunction =()=>{
-    const [data, SetData] = useState ( {color :"red"})
+    const [data, SetData] = useState ( {color :"red ,blue"})
  
 const setcolor =()=>{
     SetData({
     color : "blue",
+    color: "green"
     })
 
 } 
