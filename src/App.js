@@ -28,6 +28,7 @@ import StateFunction from "./FunctionalComponent/StateFunction";
 import Statefunctionname from "./FunctionalComponent/Statefunctionname";
 import Usestatefunction from "./FunctionalComponent/Usestatefunction";
 import buttonfunction from "./FunctionalComponent/Buttonfunction";
+import Buttonfunctionexzample from "./FunctionalComponent/Buttonfunctionexzample";
 
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
@@ -65,8 +66,8 @@ function app(){
        {/* <StatecountExzample/> */}
        {/* <Usestatefunction/> */}
        {/* <BootsrapButtonGroup/> */}
-  
-       <BootsraptableExample/>
+       <Buttonfunctionexzample/>
+       {/* <BootsraptableExample/> */}
 
        
 
