@@ -41,6 +41,8 @@ export default function BootsrapButtonGroup() {
             />
             </InputGroup>
             </ButtonToolbar>
+            <input type="text"></input>
+        
         </div>
     )
 }
