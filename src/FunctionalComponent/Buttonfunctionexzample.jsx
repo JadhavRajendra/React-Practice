@@ -1,9 +1,9 @@
 import React from 'react'
-import'./Buttonfunctionexzample'
-export default function Buttonfunctionexzample() {
+function Buttonfunctionexzample() {
     return (
         <div>
-            <p> hi</p>
+            <h1> hi</h1>
         </div>
     )
 }
+export default Buttonfunctionexzample;
