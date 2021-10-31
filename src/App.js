@@ -66,7 +66,7 @@ function app(){
        {/* <Usestatefunction/> */}
        {/* <BootsrapButtonGroup/> */}
        <Buttonfunctionexzample/>
-       {/* <BootsraptableExample/> */}
+       <BootsraptableExample/>
 
        
 
