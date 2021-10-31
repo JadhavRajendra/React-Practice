@@ -27,7 +27,6 @@ import StatecountExzample from "./ClassComponent/StatecountExzample";
 import StateFunction from "./FunctionalComponent/StateFunction";
 import Statefunctionname from "./FunctionalComponent/Statefunctionname";
 import Usestatefunction from "./FunctionalComponent/Usestatefunction";
-import buttonfunction from "./FunctionalComponent/Buttonfunction";
 import Buttonfunctionexzample from "./FunctionalComponent/Buttonfunctionexzample";
 
 // import ClassHeader from './ClassComponent/ClassHeader';
