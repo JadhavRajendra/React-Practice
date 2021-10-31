@@ -1,0 +1,7 @@
+.my-data{
+    align-content: center;
+    background-color: rgb(255, 0, 170);
+    flex-direction: row;
+    padding-left: 200px;
+    border: cyan;
+}

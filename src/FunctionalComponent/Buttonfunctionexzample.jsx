@@ -1,4 +1,5 @@
 import React from 'react'
+import'./Buttonfunctionexzample.css'
 function Buttonfunctionexzample() {
     const arr1 =[{name:"shoeb",age:22,address:"nanded"},
                   {name:"Rajendra",age:23,address:"Mudkhed"},
@@ -8,7 +9,7 @@ function Buttonfunctionexzample() {
                   {name:"vijay",age:26,address:"mudhked"} ]
     console.log(arr1)
     return (
-        <div>
+        <div className="my-data">
            {arr1.map((data)=>(
                <div>
                <h1>{data.name}</h1>
