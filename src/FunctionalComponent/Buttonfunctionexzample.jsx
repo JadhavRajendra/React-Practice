@@ -1,6 +1,6 @@
 import React from 'react'
 function Buttonfunctionexzample() {
-    const arr1 =[{name:"shoeb",age:22,address:"nanded"},{name:"Rajendra",age:23,address:"Mudkhed"}]
+    const arr1 =[{name:"shoeb",age:22,address:"nanded"},{name:"Rajendra",age:23,address:"Mudkhed"},{name:"ashok",age:34,address:"shodko"}]
     console.log(arr1)
     return (
         <div>
