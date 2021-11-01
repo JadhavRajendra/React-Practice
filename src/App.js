@@ -1,5 +1,5 @@
 import React from "react";
-import './App.css'
+import './App.css';
 import BootsrapButtonExample from "./ClassComponent/BootsrapButtonExample";
 import BootsrapCarouselExample from "./ClassComponent/BootsrapCarouselExample";
 import BootsrapFormsExample from "./ClassComponent/BootsrapFormsExample";
@@ -26,9 +26,8 @@ import StatechangExzample from "./ClassComponent/StatechangExzample";
 import StatecountExzample from "./ClassComponent/StatecountExzample";
 import StateFunction from "./FunctionalComponent/StateFunction";
 import Statefunctionname from "./FunctionalComponent/Statefunctionname";
-import Usestatefunction from "./FunctionalComponent/Usestatefunction";
-import Buttonfunctionexzample from "./FunctionalComponent/Buttonfunctionexzample";
-import Formstateexzample from "./FunctionalComponent/Formstateexzample";
+import Functiontableexzample from "./FunctionalComponent/Functiontableexzample";
+
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -37,7 +36,6 @@ import Formstateexzample from "./FunctionalComponent/Formstateexzample";
 // import ClassBasicComponent from "./ClassComponent/ClassBasicComponent";
 // import FunctionMenuComponent from "./FunctionalComponent/FunctionMenuComponent";
 // import ClassParegrapCompnent from "./ClassComponent/ClassParegrapComponent";
-
 function app(){
         
         return(
@@ -67,7 +65,8 @@ function app(){
        {/* <BootsrapButtonGroup/> */}
        {/* <Buttonfunctionexzample/> */}
        {/* <BootsraptableExample/> */}
-       <Formstateexzample/>
+       {/* <Formstateexzample/> */}
+       <Functiontableexzample/>
 
        
 
@@ -75,6 +74,6 @@ function app(){
     
         </div>
         
-    )
+    );
 }
 export default app; 

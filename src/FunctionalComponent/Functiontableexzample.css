@@ -1,0 +1,16 @@
+.my-t{
+    
+    
+    align-content: center;
+    padding-left: 200px;
+    padding-right: 700px;
+    border: black;
+    border-width: 200px;
+    border-radius: 50px;
+    box-sizing: border-box;
+    border-left: black;
+    border-right: black;
+}
+.table table-bordered{
+    border-width: 20%;
+}
