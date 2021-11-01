@@ -28,7 +28,7 @@ import StateFunction from "./FunctionalComponent/StateFunction";
 import Statefunctionname from "./FunctionalComponent/Statefunctionname";
 import Usestatefunction from "./FunctionalComponent/Usestatefunction";
 import Buttonfunctionexzample from "./FunctionalComponent/Buttonfunctionexzample";
-
+import Formstateexzample from "./FunctionalComponent/Formstateexzample";
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -65,8 +65,9 @@ function app(){
        {/* <StatecountExzample/> */}
        {/* <Usestatefunction/> */}
        {/* <BootsrapButtonGroup/> */}
-       <Buttonfunctionexzample/>
-       <BootsraptableExample/>
+       {/* <Buttonfunctionexzample/> */}
+       {/* <BootsraptableExample/> */}
+       <Formstateexzample/>
 
        
 

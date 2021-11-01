@@ -6,7 +6,10 @@ function Buttonfunctionexzample() {
                   {name:"ashok",age:34,address:"shodko"},
                   {name:"youraj",age:15,address:"danegoan"},
                   {name:"shubam",age:21,address:"rohipimplgoun tanda"},
-                  {name:"vijay",age:26,address:"mudhked"} ]
+                  {name:"vijay",age:26,address:"mudhked"},
+                  {name:"irfan",age:24,address:"hingoli"},
+                  {name:"sandip",age:21,address:"babhulgoan"},
+                  {name:"prajwal",age:21,address:"nanded"} ]
     console.log(arr1)
     return (
         <div className="my-data">
