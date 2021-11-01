@@ -7,17 +7,20 @@ function Functiontableexzample () {
               {  
                 'id': 1,   
                 'name': 'Jack',   
-                'email': 'jack@gmail.com'  
+                'email': 'jack@gmail.com'
+                  
               },  
               {  
                 'id': 2,   
                 'name': 'Mary',   
-                'email': '?mary@gmail.com'  
+                'email': '?mary@gmail.com'
+                  
               },  
               {  
                 'id': 3,   
                 'name': 'John',   
-                'email': 'john@gmail.com'  
+                'email': 'john@gmail.com' 
+                
               },  
           ];  
     
@@ -29,14 +32,16 @@ function Functiontableexzample () {
             <tr>  
                 <th>ID</th>  
                 <th>Name</th>  
-                <th>Email</th>  
+                <th>Email</th>
+                 
             </tr>  
     
             {students.map((student, index) => (  
               <tr data-index={index}>  
                 <td>{student.id}</td>  
                 <td>{student.name}</td>  
-                <td>{student.email}</td>  
+                <td>{student.email}</td> 
+                
               </tr>  
             ))}  
     
