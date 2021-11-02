@@ -27,12 +27,11 @@ import StatecountExzample from "./ClassComponent/StatecountExzample";
 import StateFunction from "./FunctionalComponent/StateFunction";
 import Statefunctionname from "./FunctionalComponent/Statefunctionname";
 import Functiontableexzample from "./FunctionalComponent/Functiontableexzample";
-
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
 // import ClassTableComponenent from "./FunctionalComponent/ClassTableComponent";
-// import FunctionTable from "./FunctionalComponent/FunctionTable";
+// import FunctionTabl e from "./FunctionalComponent/FunctionTable";
 // import ClassBasicComponent from "./ClassComponent/ClassBasicComponent";
 // import FunctionMenuComponent from "./FunctionalComponent/FunctionMenuComponent";
 // import ClassParegrapCompnent from "./ClassComponent/ClassParegrapComponent";
