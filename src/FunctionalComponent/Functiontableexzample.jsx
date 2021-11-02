@@ -25,7 +25,7 @@ function Functiontableexzample () {
           ];  
     
   return (  
-    <div className="container"table className="my-t">  
+    <div className="container" className="my-t">  
         <h1> Example of React Map Loop </h1>  
      
         <table className="table table-bordered">  
