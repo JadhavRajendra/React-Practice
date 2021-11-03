@@ -42,7 +42,12 @@ export default function BootsrapButtonGroup() {
             </InputGroup>
             </ButtonToolbar>
             <input type="text"></input>
-        
+            <input type="password"/>
+            <input type="submit"/>
+            <input type="search"/>
+            <input type="reset"/>
+            <input type="range"/>
+            <input type="time"/>
         </div>
     )
 }
