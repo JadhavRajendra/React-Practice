@@ -48,7 +48,7 @@ function app(){
        {/* <BootsrapAlerts/> */}
        {/* <BootsrapAccordion/> */}
        {/* <BootsrapBadge/> */}
-       {/* <BootsrapButtonGroup/> */}
+       <BootsrapButtonGroup/>
        <BootsrapForms/>
        {/* <BootsrapToltips/> */}
        {/* <BootsrapModal/> */}
