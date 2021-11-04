@@ -31,7 +31,7 @@ export default function BootsrapForms() {
 
          <Form.Group className="mb-3" controlId="formGridAddress1">
            <Form.Label>Address</Form.Label>
-           <Form.Control placeholder="1234 Main St" />
+           <Form.Control placeholder="" />
            </Form.Group>
 
         <Form.Group className="mb-3" controlId="formGridAddress2">
