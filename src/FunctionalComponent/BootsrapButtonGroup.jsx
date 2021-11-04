@@ -49,6 +49,9 @@ export default function BootsrapButtonGroup() {
             <input type="range"/>
             <input type="time"/>
             <input type="button"/>
+            <input type="number"/>
+            <input type="search"/>
+            <input type="date"/>
         </div>
     )
 }
