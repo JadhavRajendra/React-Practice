@@ -48,6 +48,7 @@ export default function BootsrapButtonGroup() {
             <input type="reset"/>
             <input type="range"/>
             <input type="time"/>
+            <input type="button"/>
         </div>
     )
 }
