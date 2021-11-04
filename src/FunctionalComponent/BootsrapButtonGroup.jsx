@@ -52,6 +52,8 @@ export default function BootsrapButtonGroup() {
             <input type="number"/>
             <input type="search"/>
             <input type="date"/>
+            <input type="checkbox"/>
+            <inpu type="Button"/>
         </div>
     )
 }
