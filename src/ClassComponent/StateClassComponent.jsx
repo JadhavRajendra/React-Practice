@@ -1,26 +1,19 @@
-import React, { Component } from 'react'
-class StateClassComponent extends React.Component{
+
+import React, { Component  } from 'react'
+
+export default class stateclasscomponent extends Component {
     constructor(){
-     super();
-
-         this.State={DisplayBoi:true}
-    
-          DisplayBoi
-
-         this.name .raje
-        }
-        
-        render(){
-return(
-        <div>
-            const {this.state.full}
-            
-             <h1> java point is one of the best java training institute</h1>
-            
-          
-        
-     </div>
-);
+        super();
+        this.state= {
+            name:'youraj'
         }
     }
-    export default StateClassComponent;
+    render() {
+        return (
+            <div>
+                <h1>hallo {this.state.name}</h1>
+            </div>
+        );
+    }
+}
+    
