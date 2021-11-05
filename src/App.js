@@ -27,6 +27,7 @@ import StatecountExzample from "./ClassComponent/StatecountExzample";
 import StateFunction from "./FunctionalComponent/StateFunction";
 import Statefunctionname from "./FunctionalComponent/Statefunctionname";
 import Functiontableexzample from "./FunctionalComponent/Functiontableexzample";
+import StateClassComponent from "./ClassComponent/StateClassComponent";
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -49,7 +50,7 @@ function app(){
        {/* <BootsrapAccordion/> */}
        {/* <BootsrapBadge/> */}
        {/* <BootsrapButtonGroup/> */}
-       <BootsrapForms/>
+       {/* <BootsrapForms/> */}
        {/* <BootsrapToltips/> */}
        {/* <BootsrapModal/> */}
        {/* <BootsrapSpinners/> */}
@@ -66,7 +67,7 @@ function app(){
        {/* <BootsraptableExample/> */}
        {/* <Formstateexzample/> */}
        {/* <Functiontableexzample/> */}
-
+       <StateClassComponent/>
        
 
 
