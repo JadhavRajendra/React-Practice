@@ -41,7 +41,7 @@ function Functiontableexzample () {
                 <td>{student.id}</td>  
                 <td>{student.name}</td>  
                 <td>{student.email}</td> 
-                <td>{student.address}</td>
+                <td>student</td>
               </tr>  
             ))}  
     
