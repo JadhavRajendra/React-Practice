@@ -33,7 +33,7 @@ function Functiontableexzample () {
                 <th>ID</th>  
                 <th>Name</th>  
                 <th>Email</th>
-                 
+                 <th>address</th>
             </tr>  
     
             {students.map((student, index) => (  
@@ -41,7 +41,7 @@ function Functiontableexzample () {
                 <td>{student.id}</td>  
                 <td>{student.name}</td>  
                 <td>{student.email}</td> 
-                
+                <td>address</td>
               </tr>  
             ))}  
     
