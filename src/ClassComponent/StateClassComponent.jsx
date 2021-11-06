@@ -6,7 +6,7 @@ export default class stateclasscomponent extends Component {
     constructor(){
         super();
         this.state= {
-            name:'youraj'
+            name:'raj'
             
         }
         
