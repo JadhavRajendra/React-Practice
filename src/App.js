@@ -28,6 +28,8 @@ import StateFunction from "./FunctionalComponent/StateFunction";
 import Statefunctionname from "./FunctionalComponent/Statefunctionname";
 import Functiontableexzample from "./FunctionalComponent/Functiontableexzample";
 import StateClassComponent from "./ClassComponent/StateClassComponent";
+import FragmentExample from "./FunctionalComponent/FragmentExample";
+import ReactRoutingExample from "./FunctionalComponent/Routes";
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -66,9 +68,12 @@ function app(){
        {/* <Buttonfunctionexzample/> */}
        {/* <BootsraptableExample/> */}
        {/* <Formstateexzample/> */}
-       <Functiontableexzample/>
-       <StateClassComponent/>
-       
+       {/* <Functiontableexzample/> */}
+       {/* <StateClassComponent/> */}
+
+       {/* <FragmentExample/>
+        */}
+        <ReactRoutingExample/>
 
 ,
     

@@ -17,9 +17,10 @@ function Functiontableexzample () {
                   
               },  
               {  
-                'id': 3,   
-                'name': 'John',   
-                'email': 'john@gmail.com' 
+                id: 3,   
+                name: 'John',   
+                email: 'john@gmail.com',
+                address : 'Nanded'
                 
               },  
           ];  
