@@ -10,6 +10,7 @@
     box-sizing: border-box;
     border-left: black;
     border-right: black;
+    background-color: red;
 }
 .table table-bordered{
     border-width: 20%;

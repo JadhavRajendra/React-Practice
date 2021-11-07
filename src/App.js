@@ -70,7 +70,7 @@ function app(){
        <StateClassComponent/>
        
 
-
+,
     
         </div>
         
