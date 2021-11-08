@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function FragmentExample() {
-    const array = [{name:'shoeb'},{name:'raj'},{name:'riyaz'}]
+    const array = [{name:'shoeb'},{name:'raj'},{name:'riyaz'},{name:'youraj'}]
     return (
         <>
            {array.map((item,i)=>(
