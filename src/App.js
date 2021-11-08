@@ -69,7 +69,7 @@ function app(){
        {/* <BootsraptableExample/> */}
        {/* <Formstateexzample/> */}
        {/* <Functiontableexzample/> */}
-       {/* <StateClassComponent/> */}
+       <StateClassComponent/>
 
        <FragmentExample/>
        
