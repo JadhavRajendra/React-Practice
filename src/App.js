@@ -68,8 +68,8 @@ function app(){
        {/* <Buttonfunctionexzample/> */}
        {/* <BootsraptableExample/> */}
        {/* <Formstateexzample/> */}
-       {/* <Functiontableexzample/> */}
-       <StateClassComponent/>
+       <Functiontableexzample/>
+       {/* <StateClassComponent/> */}
 
        <FragmentExample/>
        
