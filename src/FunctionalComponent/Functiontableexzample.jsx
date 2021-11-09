@@ -35,6 +35,7 @@ function Functiontableexzample () {
                 <th>Name</th>  
                 <th>Email</th>
                  <th>address</th>
+                 <th>city</th>
             </tr>  
     
             {students.map((student, index) => (  
