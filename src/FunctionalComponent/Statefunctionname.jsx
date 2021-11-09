@@ -1,15 +1,16 @@
 import React, { useState } from 'react'
 
     const Statefunctionname =() => {
-        const [data,setData] =useState({firstName:"shoeb",lastName:"khan",});
+        const [data,setData] =useState({firstName:"shoeb,",lastName:"khan,"});
 
     
         console.log("checking===>",data)
 
         var kuchBhi =()=>{
             setData({
-                firstName :"rajendra ,",
+                firstName :"rajendra ",
                 lastName: "Jadhav",
+
                 
            
             })
