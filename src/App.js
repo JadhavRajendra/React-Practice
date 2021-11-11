@@ -72,9 +72,9 @@ function app(){
        {/* <Functiontableexzample/> */}
        {/* <StateClassComponent/> */}
 
-       {/* <FragmentExample/> */}
+       <FragmentExample/>
        
-        {/* <ReactRoutingExample/> */}
+        <ReactRoutingExample/>
 
 ,
     
