@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 
 const Usestatefunction =()=>{
-    const [data, SetData] = useState ( {color :"green"})
+    const [data, SetData] = useState ( {color :"red"})
  
 const setcolor =()=>{
     SetData({
