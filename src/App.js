@@ -64,15 +64,15 @@ function app(){
        {/* <StateemailExzample/> */}
        {/* <StatechangExzample/> */}
        {/* <StatecountExzample/> */}
-       <Usestatefunction/>
+       {/* <Usestatefunction/> */}
        {/* <BootsrapButtonGroup/> */}
        {/* <Buttonfunctionexzample/> */}
        {/* <BootsraptableExample/> */}
        {/* <Formstateexzample/> */}
        {/* <Functiontableexzample/> */}
-       <StateClassComponent/>
+       {/* <StateClassComponent/> */}
 
-       <FragmentExample/>
+       {/* <FragmentExample/> */}
        
         <ReactRoutingExample/>
 
