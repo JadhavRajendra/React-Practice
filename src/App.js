@@ -74,7 +74,7 @@ function app(){
 
        {/* <FragmentExample/> */}
        
-        <ReactRoutingExample/>
+        {/* <ReactRoutingExample/> */}
 
 ,
     
