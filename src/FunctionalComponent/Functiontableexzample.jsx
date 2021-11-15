@@ -9,7 +9,8 @@ function Functiontableexzample () {
                 name: 'Jack',   
                 email: 'jack@gmail.com',
                 address: 'pune',
-                city: 'pune'
+                city: 'pune',
+                states: 'maharastra'
                     
               },  
               {  
@@ -17,14 +18,16 @@ function Functiontableexzample () {
                 name: 'Mary',   
                 email: '?mary@gmail.com',
                 address: 'mudhked',
-                city:'loha'
+                city:'loha',
+                states:'karnatka'
               },  
               {  
                 id: 3,   
                 name: 'John',   
                 email: 'john@gmail.com',
                 address : 'Nanded',
-                city:'mudhked'
+                city:'mudhked',
+                states:'gova'
                 
               },  
           ];  
@@ -40,6 +43,7 @@ function Functiontableexzample () {
                 <th>Email</th>
                  <th>address</th>
                  <th>city</th>
+                 <td>states</td>
             </tr>  
     
             {students.map((student, index) => (  
@@ -49,6 +53,7 @@ function Functiontableexzample () {
                 <td>{student.email}</td>
                 <td>{student.address} </td>
                 <td>{student.city}</td>
+                <td>{student.states}</td>
                 <td></td>
               </tr>  
             ))}  
