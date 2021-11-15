@@ -5,22 +5,26 @@ function Functiontableexzample () {
     
  const students = [  
               {  
-                'id': 1,   
-                'name': 'Jack',   
-                'email': 'jack@gmail.com'
+                id: 1,   
+                name: 'Jack',   
+                email: 'jack@gmail.com',
+                address: 'pune',
+                city: 'pune'
                     
               },  
               {  
-                'id': 2,   
-                'name': 'Mary',   
-                'email': '?mary@gmail.com'
-                  
+                id: 2,   
+                name: 'Mary',   
+                email: '?mary@gmail.com',
+                address: 'mudhked',
+                city:'loha'
               },  
               {  
                 id: 3,   
                 name: 'John',   
                 email: 'john@gmail.com',
-                address : 'Nanded'
+                address : 'Nanded',
+                city:'mudhked'
                 
               },  
           ];  
@@ -42,7 +46,9 @@ function Functiontableexzample () {
               <tr data-index={index}>  
                 <td>{student.id}</td>  
                 <td>{student.name}</td>  
-                <td>{student.email}</td> 
+                <td>{student.email}</td>
+                <td>{student.address} </td>
+                <td>{student.city}</td>
                 <td></td>
               </tr>  
             ))}  
