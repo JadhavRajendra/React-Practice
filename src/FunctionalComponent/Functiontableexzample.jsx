@@ -29,7 +29,15 @@ function Functiontableexzample () {
                 city:'mudhked',
                 states:'gova'
                 
-              },  
+              },
+              {
+                id:4,
+                name:'raj',
+                email:'rohan@gmail.com',
+                address:'rohipimpalgon',
+                city:'loha',
+                states:'rajesthan'
+              }  
           ];  
     
   return (  
