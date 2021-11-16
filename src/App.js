@@ -46,7 +46,7 @@ function app(){
      {/* <BootsrapButtonExample/>  */}
     
        {/* <StateExzample/> */}
-       {/* < StatenameExzample/> */}
+       < StatenameExzample/>
        {/* <BootsrapButtonExample/> */}
        {/* <BootsrapCarouselExample/> */}
        {/* <BootsrapAlerts/> */}
@@ -72,9 +72,9 @@ function app(){
        {/* <Functiontableexzample/> */}
        {/* <StateClassComponent/> */}
 
-       <FragmentExample/>
+       {/* <FragmentExample/> */}
        
-        <ReactRoutingExample/>
+        {/* <ReactRoutingExample/> */}
 
 ,
     
