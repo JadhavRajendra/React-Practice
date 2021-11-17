@@ -31,6 +31,7 @@ import StateClassComponent from "./ClassComponent/StateClassComponent";
 import FragmentExample from "./FunctionalComponent/FragmentExample";
 import ReactRoutingExample from "./FunctionalComponent/Routes";
 import Usestatefunction from "./FunctionalComponent/Usestatefunction";
+import ClassPropsExampleChild from "./ClassComponent/ClassPropsExampleChild";
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -47,7 +48,7 @@ function app(){
     
        {/* <StateExzample/> */}
        {/* < StatenameExzample/> */}
-       {/* <BootsrapButtonExample/> */}
+       <BootsrapButtonExample/>
        {/* <BootsrapCarouselExample/> */}
        {/* <BootsrapAlerts/> */}
        {/* <BootsrapAccordion/> */}
@@ -72,7 +73,9 @@ function app(){
        {/* <Functiontableexzample/> */}
        {/* <StateClassComponent/> */}
 
-       <FragmentExample/>
+       {/* <FragmentExample/> */}
+       <ClassPropsExampleParent1/>
+       {/* <ClassPropsExampleChild/> */}
        
         {/* <ReactRoutingExample/> */}
 
