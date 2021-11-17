@@ -22,7 +22,7 @@ export default class BootsrapCarouselExample extends Component {
   <Carousel.Item className="my-name">
     <img
       className="d-block w-100"
-      src="https://imgcomfort.com/Userfiles/Upload/images/illustration-geiranger.jpg"
+      src="https://m.media-amazon.com/images/G/31/marketing/prime/pdp/Robin_Benefit2._CB485968652_.jpg"
       alt="Second slide2"className="my-Corousel"
     />
 
@@ -33,8 +33,7 @@ export default class BootsrapCarouselExample extends Component {
   </Carousel.Item>
   <Carousel.Item className="my-name">
     <img
-      className="d-block w-100"
-      src="https://www.interfacemedia.com/media/2350/img-vr-tilt-brush-website-hero-shot.jpg"
+      src="https://m.media-amazon.com/images/G/31/prime/detail_page/Prime_Detail_Page_PC_VideoLaunch_1344x526._CB417703432_.jpg"
       alt="Third slide 3"
     />
 
