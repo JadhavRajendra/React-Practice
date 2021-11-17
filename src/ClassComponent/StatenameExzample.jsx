@@ -4,7 +4,7 @@ export default class StatenameExzample extends Component {
     constructor(){
         super();
         this.State={
-            name:'shoeb'
+            name:'raj'
 
         }
     }
