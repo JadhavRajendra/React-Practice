@@ -44,12 +44,12 @@ function app(){
         
         return(
         <div className='App'>  
-     {/* <BootsrapButtonExample/>  */}
+     {/* <BootsrapButt onExample/> */}
     
        {/* <StateExzample/> */}
        {/* < StatenameExzample/> */}
        <BootsrapButtonExample/>
-       {/* <BootsrapCarouselExample/> */}
+       <BootsrapCarouselExample/>
        {/* <BootsrapAlerts/> */}
        {/* <BootsrapAccordion/> */}
        {/* <BootsrapBadge/> */}

@@ -8,7 +8,7 @@ export default class BootsrapCarouselExample extends Component {
             <div classname="my-Corousel">
     
     <Carousel>
-  <Carousel.Item>
+  <Carousel.Item className="my-name">
     <img
       className="d-block w-100"
       src="https://www.imgacademy.com/themes/custom/imgacademy/images/helpbox-contact.jpg"
@@ -19,7 +19,7 @@ export default class BootsrapCarouselExample extends Component {
       <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
     </Carousel.Caption>
   </Carousel.Item>
-  <Carousel.Item>
+  <Carousel.Item className="my-name">
     <img
       className="d-block w-100"
       src="https://imgcomfort.com/Userfiles/Upload/images/illustration-geiranger.jpg"
@@ -31,7 +31,7 @@ export default class BootsrapCarouselExample extends Component {
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </Carousel.Caption>
   </Carousel.Item>
-  <Carousel.Item>
+  <Carousel.Item className="my-name">
     <img
       className="d-block w-100"
       src="https://www.interfacemedia.com/media/2350/img-vr-tilt-brush-website-hero-shot.jpg"
