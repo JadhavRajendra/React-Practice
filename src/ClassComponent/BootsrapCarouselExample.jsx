@@ -22,7 +22,8 @@ export default class BootsrapCarouselExample extends Component {
   <Carousel.Item className="my-name">
     <img
       className="d-block w-100"
-      src="https://m.media-amazon.com/images/G/31/Pay/CBCC/BOX._CB433739796_.png"
+      src="https://rukminim1.flixcart.com/image/416/416/kuwzssw0/television/u/i/r/u-series-65-u1s-65uc1a00-oneplus-original-imag7xtnmnkyz7je.jpeg?q=70"
+      
       alt="Second slide2"className="my-Corousel"
     />
 
