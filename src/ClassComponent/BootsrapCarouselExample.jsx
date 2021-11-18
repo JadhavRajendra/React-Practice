@@ -11,7 +11,7 @@ export default class BootsrapCarouselExample extends Component {
   <Carousel.Item className="my-name">
     <img
       className="d-block w-100"
-      src="https://www.imgacademy.com/themes/custom/imgacademy/images/helpbox-contact.jpg"
+      src="https://m.media-amazon.com/images/G/31/marketing/prime/pdp/Robin_Benefit2._CB485968652_.jpg"
       alt="First slide 1" className="my-Corousel"
     />
     <Carousel.Caption>
@@ -22,7 +22,7 @@ export default class BootsrapCarouselExample extends Component {
   <Carousel.Item className="my-name">
     <img
       className="d-block w-100"
-      src="https://m.media-amazon.com/images/G/31/marketing/prime/pdp/Robin_Benefit2._CB485968652_.jpg"
+      src="https://m.media-amazon.com/images/G/31/Pay/CBCC/BOX._CB433739796_.png"
       alt="Second slide2"className="my-Corousel"
     />
 
