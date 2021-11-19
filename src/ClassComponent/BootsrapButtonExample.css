@@ -15,4 +15,11 @@
 
 .main-carsoul{
     height: 80vh !important;
+    align-content: center;
+}
+.my-app{
+    align-content: center;
+    height: 50px;
+    padding-left: 100px;
+    
 }

@@ -13,8 +13,8 @@ export default class BootsrapButtonExample extends Component {
   <Button variant="secondary" size="lg">
     amazon
   </Button>
-</div> 
-  <h1>
+</div > 
+  <h1 className='my-app'>
     amazon <Badge bg="secondary">button</Badge>
   </h1>
   
