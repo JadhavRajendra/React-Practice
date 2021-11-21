@@ -48,8 +48,8 @@ function app(){
     
        {/* <StateExzample/> */}
        {/* < StatenameExzample/> */}
-       <BootsrapButtonExample/>
-       <BootsrapCarouselExample/>
+       {/* <BootsrapButtonExample/> */}
+       {/* <BootsrapCarouselExample/> */}
        {/* <BootsrapAlerts/> */}
        {/* <BootsrapAccordion/> */}
        {/* <BootsrapBadge/> */}
@@ -74,7 +74,7 @@ function app(){
        {/* <StateClassComponent/> */}
 
        {/* <FragmentExample/> */}
-       <ClassPropsExampleParent1/>
+       {/* <ClassPropsExampleParent1/> */}
        {/* <ClassPropsExampleChild/> */}
        
         {/* <ReactRoutingExample/> */}
