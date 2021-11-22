@@ -10,8 +10,8 @@ const changecolor = () =>{
         SetData({color:"blue"});
     } else if (data.color === "green"){
         SetData({color:"red"});
-    // } else if (data.color === "red"){
-    //     SetData({color:"blue"});
+    } else if (data.color === "red"){
+        SetData({color:"blue"});
     }
 }
     return (
