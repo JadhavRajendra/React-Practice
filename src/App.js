@@ -32,6 +32,7 @@ import FragmentExample from "./FunctionalComponent/FragmentExample";
 import ReactRoutingExample from "./FunctionalComponent/Routes";
 import Usestatefunction from "./FunctionalComponent/Usestatefunction";
 import ClassPropsExampleChild from "./ClassComponent/ClassPropsExampleChild";
+import UseStateColorexzample from "./FunctionalComponent/UseStateColorexzample";
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -40,6 +41,7 @@ import ClassPropsExampleChild from "./ClassComponent/ClassPropsExampleChild";
 // import ClassBasicComponent from "./ClassComponent/ClassBasicComponent";
 // import FunctionMenuComponent from "./FunctionalComponent/FunctionMenuComponent";
 // import ClassParegrapCompnent from "./ClassComponent/ClassParegrapComponent";
+
 function app(){
         
         return(
@@ -72,7 +74,7 @@ function app(){
        {/* <Formstateexzample/> */}
        {/* <Functiontableexzample/> */}
        {/* <StateClassComponent/> */}
-
+       <UseStateColorexzample/>
        {/* <FragmentExample/> */}
        {/* <ClassPropsExampleParent1/> */}
        {/* <ClassPropsExampleChild/> */}
