@@ -11,6 +11,7 @@ export default class BootsrapButtonExample extends Component {
               <div className="d-grid gap-2">
 
   <Button variant="secondary" size="lg">
+   npm start
     amazon
   </Button>
 </div > 
