@@ -15,7 +15,8 @@ export default class BootsrapButtonExample extends Component {
   </Button>
 </div > 
   <h1 className='my-app'>
-    amazon <Badge bg="secondary">button</Badge>
+    <img src="https://1000logos.net/wp-content/uploads/2016/10/Amazon-Logo-19983.jpg"/>
+     <Badge bg="secondary"></Badge>
   </h1>
   
 </div>

@@ -7,11 +7,12 @@ export default class BootsrapCarouselExample extends Component {
         return (
             <div classname="my-Corousel">
     
-    <Carousel>
+    <Carousel >
   <Carousel.Item className="my-name">
     <img
       className="d-block w-100"
-      src="https://m.media-amazon.com/images/G/31/marketing/prime/pdp/Robin_Benefit2._CB485968652_.jpg"
+      src="https://images-eu.ssl-images-amazon.com/images/I/51emgfV2MfL._SX300_SY300_QL70_FMwebp_.jpg "
+    
       alt="First slide 1" className="my-Corousel"
     />
     <Carousel.Caption>

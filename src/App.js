@@ -33,6 +33,8 @@ import ReactRoutingExample from "./FunctionalComponent/Routes";
 import Usestatefunction from "./FunctionalComponent/Usestatefunction";
 import ClassPropsExampleChild from "./ClassComponent/ClassPropsExampleChild";
 import UseStateColorexzample from "./FunctionalComponent/UseStateColorexzample";
+import Classpropsparentexzample2 from "./ClassComponent/Classpropsparentexzample2";
+import Classpropsparentexzample3 from "./ClassComponent/Classpropsparentexzample3";
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -46,12 +48,12 @@ function app(){
         
         return(
         <div className='App'>  
-     {/* <BootsrapButt onExample/> */}
+     {/* <BootsrapButtonExample/> */}
     
        {/* <StateExzample/> */}
        {/* < StatenameExzample/> */}
-       {/* <BootsrapButtonExample/> */}
-       {/* <BootsrapCarouselExample/> */}
+       <BootsrapButtonExample/>
+       <BootsrapCarouselExample/>
        {/* <BootsrapAlerts/> */}
        {/* <BootsrapAccordion/> */}
        {/* <BootsrapBadge/> */}
@@ -74,12 +76,13 @@ function app(){
        {/* <Formstateexzample/> */}
        {/* <Functiontableexzample/> */}
        {/* <StateClassComponent/> */}
-       <UseStateColorexzample/>
+       {/* <UseStateColorexzample/> */}
        {/* <FragmentExample/> */}
-       {/* <ClassPropsExampleParent1/> */}
+       <ClassPropsExampleParent1/>
        {/* <ClassPropsExampleChild/> */}
-       
+       <Classpropsparentexzample2/>
         {/* <ReactRoutingExample/> */}
+        <Classpropsparentexzample3/>
 
 
     
