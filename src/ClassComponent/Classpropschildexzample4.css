@@ -1,0 +1,10 @@
+.my-child{
+
+    align-content: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    text-align: center;
+
+}
