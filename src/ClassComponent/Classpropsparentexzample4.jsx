@@ -5,7 +5,7 @@ export default class Classpropsparentexzample4 extends Component {
     render() {
         return (
             <div className="my-app">
-    
+    <
                 
                  
             </div>
