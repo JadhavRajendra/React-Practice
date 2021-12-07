@@ -47,7 +47,7 @@ export default class BootsrapCarouselExample extends Component {
 </Carousel>
         
 
-            </div>
+            </div> 
         )
     }
 }
