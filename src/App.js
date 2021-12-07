@@ -51,7 +51,7 @@ function app(){
         <div className='App'>  
      {/* <BootsrapButtonExample/> */}
     
-       {/* <StateExzample/> */}
+       <StateExzample/>
        {/* < StatenameExzample/> */}
        <BootsrapButtonExample/>
        <BootsrapCarouselExample/>
