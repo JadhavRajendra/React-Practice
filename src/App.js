@@ -55,7 +55,7 @@ function app(){
        {/* < StatenameExzample/> */}
        <BootsrapButtonExample/>
        <BootsrapCarouselExample/>
-       {/* <BootsrapAlerts/> */}
+       <BootsrapAlerts/>
        {/* <BootsrapAccordion/> */}
        {/* {/* <BootsrapBadge/> */}
        {/* <BootsrapButtonGroup/> */}
