@@ -67,7 +67,7 @@ function app(){
        {/* <BootsrapPlaceholder/> */}
        {/* <BootsrapLayout/> */}
        {/* <StatebasicExzample/> */}
-       <StateemailExzample/>
+       {/* <StateemailExzample/> */}
        {/* <StatechangExzample/> */}
        {/* <StatecountExzample/> */}
        {/* <Usestatefunction/> */}
