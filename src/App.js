@@ -61,7 +61,7 @@ function app(){
        {/* <BootsrapButtonGroup/> */}
        {/* <BootsrapForms/> */}
        {/* <BootsrapToltips/> */}
-       {/* <BootsrapModal/> */}
+       <BootsrapModal/>
        {/* <BootsrapSpinners/> */}
        {/* <BootsrapToasts/> */}
        {/* <BootsrapPlaceholder/> */}
