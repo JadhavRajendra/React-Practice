@@ -56,13 +56,13 @@ function app(){
        {/* <BootsrapButtonExample/> */}
        {/* <BootsrapCarouselExample/> */}
        {/* <BootsrapAlerts/> */}
-       <BootsrapAccordion/>
+       {/* <BootsrapAccordion/> */}
        {/* <BootsrapBadge/>
        {/* <BootsrapButtonGroup/> */}
        {/* <BootsrapForms/> */}
        {/* <BootsrapToltips/> */}
        {/* <BootsrapModal/> */}
-       {/* <BootsrapSpinners/> */}
+       <BootsrapSpinners/>
        {/* <BootsrapToasts/> */}
        {/* <BootsrapPlaceholder/> */}
        {/* <BootsrapLayout/> */}
