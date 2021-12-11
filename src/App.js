@@ -57,7 +57,7 @@ function app(){
        {/* <BootsrapCarouselExample/> */}
        {/* <BootsrapAlerts/> */}
        <BootsrapAccordion/>
-       {/* {/* <BootsrapBadge/> */}
+       {/* <BootsrapBadge/>
        {/* <BootsrapButtonGroup/> */}
        {/* <BootsrapForms/> */}
        {/* <BootsrapToltips/> */}
