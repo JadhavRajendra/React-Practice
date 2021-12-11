@@ -62,14 +62,14 @@ function app(){
        {/* <BootsrapForms/> */}
        {/* <BootsrapToltips/> */}
        {/* <BootsrapModal/> */}
-       <BootsrapSpinners/>
+       {/* <BootsrapSpinners/> */}
        {/* <BootsrapToasts/> */}
        {/* <BootsrapPlaceholder/> */}
        {/* <BootsrapLayout/> */}
        {/* <StatebasicExzample/> */}
        {/* <StateemailExzample/> */}
        {/* <StatechangExzample/> */}
-       {/* <StatecountExzample/> */}
+       <StatecountExzample/>
        {/* <Usestatefunction/> */}
        {/* <BootsrapButtonGroup/> */}
        {/* <Buttonfunctionexzample/> */}
