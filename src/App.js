@@ -72,7 +72,7 @@ function app(){
        {/* <StatecountExzample/> */}
        {/* <Usestatefunction/> */}
        {/* <BootsrapButtonGroup/> */}
-       <Buttonfunctionexzample/>
+       {/* <Buttonfunctionexzample/> */}
        {/* <BootsraptableExample/> */}
        {/* <Formstateexzample/> */}
        {/* <Functiontableexzample/> */}
