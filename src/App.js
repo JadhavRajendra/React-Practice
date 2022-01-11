@@ -65,7 +65,7 @@ function app(){
        {/* <BootsrapSpinners/> */}
        {/* <BootsrapToasts/> */}
        {/* <BootsrapPlaceholder/> */}
-       <BootsrapLayout/>
+       {/* <BootsrapLayout/> */}
        {/* <StatebasicExzample/> */}
        {/* <StateemailExzample/> */}
        {/* <StatechangExzample/> */}
@@ -80,7 +80,7 @@ function app(){
        {/* <UseStateColorexzample/> */}
        {/* <FragmentExample/> */}
        <ClassPropsExampleParent1/>
-       {/* <ClassPropsExampleChild/> */}
+       <ClassPropsExampleChild/>
        <Classpropsparentexzample2/>
         {/* <ReactRoutingExample/> */}
         <Classpropsparentexzample3/>
