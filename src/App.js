@@ -36,6 +36,9 @@ import UseStateColorexzample from "./FunctionalComponent/UseStateColorexzample";
 import Classpropsparentexzample2 from "./ClassComponent/Classpropsparentexzample2";
 import Classpropsparentexzample3 from "./ClassComponent/Classpropsparentexzample3";
 import Classpropsparentexzample4 from "./ClassComponent/Classpropschildexzample4";
+import functionexzample from "./FunctionalComponent/functionexzample"
+import { Router } from "react-router";
+
 // import ClassHeader from './ClassComponent/ClassHeader';
 // import FunctionalHeader from "./FunctionalComponent/FunctionalHeader";
 // import ClassImageCompnent from "./ClassComponent/ClassImageCompnent";
@@ -53,8 +56,8 @@ function app(){
     
        {/* <StateExzample/> */}
        {/* < StatenameExzample/> */}
-       <BootsrapButtonExample/>
-       <BootsrapCarouselExample/>
+       {/* <BootsrapButtonExample/> */}
+       {/* <BootsrapCarouselExample/> */}
        {/* <BootsrapAlerts/> */}
        {/* <BootsrapAccordion/> */}
        {/* <BootsrapBadge/>
@@ -79,16 +82,19 @@ function app(){
        {/* <StateClassComponent/> */}
        {/* <UseStateColorexzample/> */}
        {/* <FragmentExample/> */}
-       <ClassPropsExampleParent1/>
-       <ClassPropsExampleChild/>
-       <Classpropsparentexzample2/>
+       {/* <ClassPropsExampleParent1/> */}
+       {/* <ClassPropsExampleChild/> */}
+       {/* <Classpropsparentexzample2/> */}
         {/* <ReactRoutingExample/> */}
-        <Classpropsparentexzample3/>
+        {/* <Classpropsparentexzample3/> */}
 
         
         <Classpropsparentexzample4/>
 
-
+          <functionexzample/>
+        <Router/>
+          
+          
     
         </div>
         

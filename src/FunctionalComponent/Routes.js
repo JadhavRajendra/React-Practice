@@ -16,11 +16,11 @@ export default function ReactRoutingExample() {
     
         <div>
         <ul>
-                <Link to="/about">
-                    <li>home</li>
-                </Link>
-             </ul> 
-             </div>      
+        <Link to="/about">
+         <li>home</li>
+         </Link>
+         </ul>  
+         </div>      
         <Routes>
             <Route path="/" exact component={Home}/>
             <Route path="/about" component ={About}/>
