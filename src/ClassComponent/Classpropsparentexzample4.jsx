@@ -6,7 +6,7 @@ export default class Classpropsparentexzample4 extends Component {
         return (
             <div > 
                 
-                 
+                <Classpropschildexzample4/> 
             </div>
         )
     }

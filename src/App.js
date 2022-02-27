@@ -92,7 +92,7 @@ function app(){
         <Classpropsparentexzample4/>
 
           <functionexzample/>
-        <Router/>
+        {/* <Router/> */}
           
           
     
