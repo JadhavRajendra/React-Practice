@@ -83,13 +83,13 @@ function app(){
        {/* <UseStateColorexzample/> */}
        {/* <FragmentExample/> */}
        {/* <ClassPropsExampleParent1/> */}
-       {/* <ClassPropsExampleChild/> */}
+       {/* <ClassPropsExampleChild/>  */}
        {/* <Classpropsparentexzample2/> */}
         {/* <ReactRoutingExample/> */}
-        {/* <Classpropsparentexzample3/> */}
+         <Classpropsparentexzample3/>
 
         
-        <Classpropsparentexzample4/>
+        {/* <Classpropsparentexzample4/> */}
 
           <functionexzample/>
         {/* <Router/> */}
