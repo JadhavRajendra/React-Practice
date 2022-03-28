@@ -12,8 +12,7 @@ export default class BootsrapCarouselExample extends Component {
     <img
       className="d-block w-100"
       src="https://images-eu.ssl-images-amazon.com/images/I/51emgfV2MfL._SX300_SY300_QL70_FMwebp_.jpg "
-    
-      alt="First slide 1" className="my-Corousel"
+
     />
     <Carousel.Caption>
       <h3>First slide label 1</h3>
@@ -25,7 +24,7 @@ export default class BootsrapCarouselExample extends Component {
       className="d-block w-100"
       src="https://rukminim1.flixcart.com/image/416/416/kuwzssw0/television/u/i/r/u-series-65-u1s-65uc1a00-oneplus-original-imag7xtnmnkyz7je.jpeg?q=70"
       
-      alt="Second slide2"className="my-Corousel"
+      
     />
 
     <Carousel.Caption>
