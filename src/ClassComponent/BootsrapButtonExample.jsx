@@ -14,13 +14,13 @@ export default class BootsrapButtonExample extends Component {
    
     
   </Button>
-</div > 
-  <h1 className='my-app'>
-    <img src="https://1000logos.net/wp-content/uploads/2016/10/Amazon-Logo-19983.jpg"/>
-     <Badge bg="secondary"></Badge>
-  </h1>
+  </div > 
+       <h1 className='my-app'>
+        <img src="https://1000logos.net/wp-content/uploads/2016/10/Amazon-Logo-19983.jpg"/>
+       <Badge bg="secondary"></Badge>
+       </h1>
   
-</div>
+  </div>
            
             </div>
         )
